@@ -44,3 +44,4 @@ The EAR is ploted in real-time to visualise its change. It is desided to use
 - **red** dots of blink is too long (more then 2 seconds)
 
 Plot is represented by image that is apdated in real-time, wich may be seen on next gif:
+![](https://github.com/Genvekt/blink_detector/blob/master/images/ezgif.com-video-to-gif.gif)
