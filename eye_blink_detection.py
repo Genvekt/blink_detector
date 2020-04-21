@@ -252,7 +252,7 @@ if __name__ == '__main__':
 
                 open_ear_window = np.append(open_ear_window[1:], ear)
                     # Recalculate the treshold for open eyes
-                EAR_THRESH = np.average(open_ear_window)
+                EAR_THRESH = np.average(open_ear_window) - 0.05
                 
                 if args['plot_ear']:
                     # Add green point to EAR plot
